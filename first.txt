@@ -1,3 +1,5 @@
 Gitの練習
 test
 fit status
+Git diff
+Git diff2
